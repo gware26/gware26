@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0f1f&height=280&section=header&text=Chala%20Gobena&fontSize=75&fontAlign=50&fontAlignY=42&fontColor=00e5ff&desc=Frontend%20Architect%20%7C%20Design%20Systems%20%7C%20UI%20Engineering&descSize=20&descAlign=50&descAlignY=62&animation=twinkling" width="100%" alt="Hero banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0f1f&height=280&section=header&text=Gudina%20Ware&fontSize=75&fontAlign=50&fontAlignY=42&fontColor=00e5ff&desc=Frontend%20Architect%20%7C%20Design%20Systems%20%7C%20UI%20Engineering&descSize=20&descAlign=50&descAlignY=62&animation=twinkling" width="100%" alt="Hero banner" />
 
   <p align="center">
-    <a href="mailto:chalagobena777@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f1f?style=for-the-badge&logo=gmail&logoColor=00e5ff" alt="Email" /></a>
-    <a href="https://github.com/chal7777"><img src="https://img.shields.io/badge/GitHub-0a0f1f?style=for-the-badge&logo=github&logoColor=00e5ff" alt="GitHub" /></a>
-    <a href="https://leetcode.com/u/chal7777/"><img src="https://img.shields.io/badge/LeetCode-0a0f1f?style=for-the-badge&logo=leetcode&logoColor=00e5ff" alt="LeetCode" /></a>
-    <a href="https://discord.gg/chal77"><img src="https://img.shields.io/badge/Discord-0a0f1f?style=for-the-badge&logo=discord&logoColor=00e5ff" alt="Discord" /></a>
-    <a href="https://instagram.com/chall781"><img src="https://img.shields.io/badge/Instagram-0a0f1f?style=for-the-badge&logo=instagram&logoColor=00e5ff" alt="Instagram" /></a>
+    <a href="mailto:gudinaware2622@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f1f?style=for-the-badge&logo=gmail&logoColor=00e5ff" alt="Email" /></a>
+    <a href="https://github.com/gware26"><img src="https://img.shields.io/badge/GitHub-0a0f1f?style=for-the-badge&logo=github&logoColor=00e5ff" alt="GitHub" /></a>
+
   </p>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Engineering+pixel-perfect+UIs;Architecting+scalable+design+systems;Crafting+motion-first+web+experiences;Turning+complex+problems+into+elegant+code" alt="Typing intro" />
