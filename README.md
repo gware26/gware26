@@ -26,77 +26,6 @@
 
 <br />
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-### 🎯 Developer Snapshot
-
-- **Focus:** Full-stack product development, data-driven thinking, and polished user experiences.
-- **Stack:** TypeScript, React, Next.js, FastAPI, Python, SQL, and modern cloud tooling.
-- **Data & AI:** Building practical data workflows, analysis pipelines, and machine learning experiments.
-- **Location:** Ethiopia 🇪🇹 — remote-friendly and open to collaboration.
-
-    </td>
-    <td width="50%" valign="top">
-
-### ⚡ Current Trajectory
-
-- 📦 Building full-stack products with clean APIs and modern interfaces.
-- 🌐 Exploring scalable web apps, cloud deployment, and performance-first experiences.
-- 🧠 Working on data analysis, predictive modeling, and practical AI solutions.
-- 🤝 Open to full-stack, data, and product collaborations.
-
-    </td>
-  </tr>
-</table>
-
----
-
-<h3 align="center">🧭 Interactive Highlights</h3>
-
-<details>
-  <summary><strong>✨ What I enjoy building</strong></summary>
-
-  - 🖼️ Responsive and accessible interfaces that feel effortless.
-  - ⚙️ Scalable design systems with thoughtful component architecture.
-  - 🚀 Fast, polished web apps with smooth motion and strong UX.
-  - 🧪 Quality-driven development with reliable testing habits.
-
-</details>
-
-<details>
-  <summary><strong>🛠️ My current focus</strong></summary>
-
-  - Improving UI performance and developer experience.
-  - Designing reusable frontend patterns for long-term maintainability.
-  - Expanding knowledge in full-stack systems and modern deployment workflows.
-
-</details>
-
----
-
-<h3 align="center">🛠️ Technical Arsenal</h3>
-
-<div align="center">
-
-<strong>Frontend & UI</strong><br />
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,astro,figma&theme=dark" alt="Frontend tools" />
-
-<br /><br />
-
-<strong>Backend & Data</strong><br />
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,nodejs,express,graphql,prisma,postgres,mongodb,sql,pandas,sklearn&theme=dark" alt="Backend and data tools" />
-
-<br /><br />
-
-<strong>DevOps & Workflow</strong><br />
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,aws,linux,vscode,postman&theme=dark" alt="DevOps tools" />
-
-</div>
-
----
-
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
@@ -123,14 +52,6 @@
 </picture>
 
 </div>
-
----
-
-<h3 align="center">💡 Philosophy</h3>
-
-> “Great user interfaces aren’t just designed — they’re engineered.”
-
-I enjoy turning ideas into elegant, scalable, and performant web applications with a strong focus on user experience, clean architecture, and modern frontend technologies.
 
 ---
 
