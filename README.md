@@ -4,8 +4,8 @@
   <!-- EDIT: swap the src for a custom photo URL if you don't want your live GitHub avatar -->
   <img src="https://github.com/gware26.png" width="140" height="140" alt="Gudina Ware" style="border-radius:50%;border:3px solid #00d4ff;box-shadow:0 0 18px #00d4ff,0 0 36px #7b2cbf;"/>
   <br/>
-  <!-- EDIT: get your uid from https://spotify-github-profile.vercel.app and paste it in below, or delete this line -->
-  <a href="https://open.spotify.com"><img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_UID&redirect=true&cover_image=true&theme=default&show_offline=false&background_color=0a0014&bar_color=00d4ff&bar_color_cover=true" width="300" alt="spotify now playing"/></a>
+  <!-- EDIT: connect at https://spotify-github-profile.kittinanx.com/api/login, then swap YOUR_SPOTIFY_UID below for the uid it gives you (or delete this line) -->
+  <a href="https://open.spotify.com"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=0a0014&bar_color=00d4ff&bar_color_cover=true" width="300" alt="spotify now playing"/></a>
 
   <p align="center">
     <a href="mailto:gudinaware2622@gmail.com">
